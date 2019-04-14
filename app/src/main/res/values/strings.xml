@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">FixIn</string>
+    <string name="facebook_app_id">672586529810539</string>
+    <string name="facebook_login_protocol_scheme">fb672586529810539</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="default_web_client_id_use" translatable="false">337894902146-e4uksm38sne0bqrj6uvkbo4oiu4hvigl.apps.googleusercontent.com</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login_fix_in">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="password">Password</string>
+    <string name="go">Let\'s Go</string>
+    <string name="title_activity_work_list">WorkList</string>
+</resources>
